@@ -11,6 +11,9 @@ const Sidebar = () => {
                     <li>channel01</li>
                     <li>channel02</li>
                     <li>channel03</li>
+                    <li>channel04</li>
+                    <li>channel05</li>
+                    <li>channel06</li>
                 </ul>
             </div>
             <div className='sidebarRight'>

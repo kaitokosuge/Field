@@ -12,6 +12,9 @@ function Chat() {
         <ChatMessage />
         <ChatMessage />
         <ChatMessage />
+        <ChatMessage />
+        <ChatMessage />
+        <ChatMessage />
       </div>
       <div className='chatFooter'>
         footer
